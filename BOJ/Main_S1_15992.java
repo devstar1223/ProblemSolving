@@ -3,7 +3,7 @@ package ProblemSolving.BOJ;
 import java.io.*;
 
 // 1, 2, 3 더하기 7(https://www.acmicpc.net/problem/15992)
-public class Main_15992 {
+public class Main_S1_15992 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
